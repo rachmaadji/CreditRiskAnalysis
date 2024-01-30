@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 #Credit Risk Analysis
 import pandas as pd
